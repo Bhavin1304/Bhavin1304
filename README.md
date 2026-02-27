@@ -1,10 +1,3 @@
-Yesss Bhavin 😎 GitHub profile ko **next-level developer brand page** bana dete hain — full stack vibe, animations, emojis, professional + stylish.
-
-Copy-paste this into your **README.md** of the `Bhavin1304` repo 👇
-
----
-
-```markdown
 <h1 align="center">Hey 👋, I'm Bhavin</h1>
 <h3 align="center">🚀 Full Stack Developer | 💡 Problem Solver | 🌍 Tech Explorer</h3>
 
@@ -112,10 +105,3 @@ Copy-paste this into your **README.md** of the `Bhavin1304` repo 👇
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bhavin1304&style=for-the-badge&color=blue" />
 </p>
-```
-
----
-
-Ye profile **professional + animated + full stack focused** hai — recruiter dekhe toh seedha impress 😌🔥
-
-Agar chaho toh main isme **projects section**, **certifications**, ya **AI / cybersecurity** focus bhi add kar dunga.
